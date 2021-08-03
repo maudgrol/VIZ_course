@@ -1,0 +1,21 @@
+body {
+  font-family: Courier;
+}
+
+h1 {
+  color: purple;
+}
+
+svg {
+  background:whiteSmoke;
+}
+
+#cme {
+  /* background:rgb(0, 0, 0); */
+  /* color:white; */
+}
+
+circle {
+  stroke: black;
+  stroke-width: 2px;
+}

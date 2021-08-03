@@ -1,0 +1,16 @@
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 18px;
+}
+
+#pepe {
+    color: blue;
+}
+
+.myParagraph {
+    color: purple;
+    font-family: "American Typewriter";
+}
